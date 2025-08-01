@@ -20,7 +20,8 @@
 ## 🚀 Projects
 
 ### 🔐 Deep Detect -> [view github](https://github.com/Hemanth-Kumar-Somana/Deep_Detect)
-->Tech Stack: Scikit-learn , Psutil & Hashlib ,SMTP + Threading
+**Tech Stack: Scikit-learn , Psutil & Hashlib ,SMTP + Threading
+
 The Deep Detect is an advanced, modular framework designed to monitor and secure systems in real-time. This project leverages state-of-the-art techniques, including machine learning models, file integrity monitoring, network activity scanning, and automated alerts. The system demonstrates how sponge attacks can degrade model efficiency without affecting prediction accuracy, highlighting a critical security vulnerability in resource-constrained AI systems. 
 
 
