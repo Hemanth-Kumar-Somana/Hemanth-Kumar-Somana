@@ -68,7 +68,7 @@ AI-powered email summarizer that fetches today's Gmail emails, generates summari
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hemanth-kumar-somana-2029b5212/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:hemanthkumarsomana@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/SOMANA_HEMANTH_KUMAR/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)]([your-hackerrank-url](https://www.hackerrank.com/profile/22311a05fy1))
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank)]([https://www.hackerrank.com/profile/22311a05fy1])
 
 ---
 
