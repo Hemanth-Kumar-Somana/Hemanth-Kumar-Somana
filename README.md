@@ -20,16 +20,19 @@
 ## 🚀 Projects
 
 ### 🔐 Deep Detect -> [view github](https://github.com/Hemanth-Kumar-Somana/Deep_Detect)
-**The Deep Detect is an advanced, modular framework designed to monitor and secure systems in real-time. This project leverages state-of-the-art techniques, including machine learning models, file integrity monitoring, network activity scanning, and automated alerts. The system demonstrates how sponge attacks can degrade model efficiency without affecting prediction accuracy, highlighting a critical security vulnerability in resource-constrained AI systems. 
+->Tech Stack: Scikit-learn , Psutil & Hashlib ,SMTP + Threading
+The Deep Detect is an advanced, modular framework designed to monitor and secure systems in real-time. This project leverages state-of-the-art techniques, including machine learning models, file integrity monitoring, network activity scanning, and automated alerts. The system demonstrates how sponge attacks can degrade model efficiency without affecting prediction accuracy, highlighting a critical security vulnerability in resource-constrained AI systems. 
 
 
 ### 📚 DSA Learning Portal -> [view github](https://github.com/Hemanth-Kumar-Somana/DSA-learning-portal),  [Live Demo](https://dsa-learning-portal.vercel.app/)
 **Tech Stack: React, TypeScript, Supabase, Tailwind CSS
+
 Developed a DSA Learning Portal with structured modules covering Arrays, Trees, Graphs, and more through theory, quizzes, and coding challenges. Added a Contests section with upcoming LeetCode, CodeChef events, registration links, and email alerts. Integrated progress tracking using calendar streaks and daily activity graphs for motivation
 
 
 ### 💼 Part-Time Job Finder-> [view github](https://github.com/Hemanth-Kumar-Somana/Part-Time-Job-FInder-For-Student),  [Live Demo](https://part-time-job-finder-for-students.vercel.app/)
 **Tech Stack: React, TypeScript, Supabase, Tailwind CSS
+
 connects students and employers for part-time jobs with features like job postings, pay negotiation, confirmations, wallet tracking, real-time alerts, and role-based dashboards, ensuring a seamless, efficient experience from application to payment on a single unified platform.
 
 ### 🧳Travel Companion -> -> [view github](https://github.com/Hemanth-Kumar-Somana/SmartTrip-Your-Complete-Travel-Companion)
@@ -37,6 +40,7 @@ Travel Companion App with personalized trip planning, budgeting, and saving feat
 
 ### ✉️ AI Email Summarizer -> [view github](https://github.com/Hemanth-Kumar-Somana/Camer-Detection-using-AI)
 Tech Stack: Python, IMAP, SMTP, Hugging Face Transformers, Cron/Schedule, Gmail API
+
 AI-powered email summarizer that fetches today's Gmail emails, generates summaries using Hugging Face models, and automatically sends a daily summary email at 8 PM via scheduled Python script.
 
 
